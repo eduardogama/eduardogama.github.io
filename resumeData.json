@@ -15,18 +15,8 @@
       "zip": "56306-347"
     },
     "website": "https://eduardogama.github.io",
-    "resumedownload": "https://eduardogama.github.io/cv-eduardo",
+    "resumedownload": "https://eduardogama.github.io/cv-eduardo.pdf",
     "social": [
-      {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com",
-        "className": "fa fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/eduardo-s-gama/",
